@@ -7,5 +7,7 @@ The Car Parking Space Counter project uses OpenCV to count and monitor available
 ## Features
 
 Real-time Monitoring: Continuously tracks and counts parking spaces from video input.
+
 Accurate Detection: Utilizes computer vision techniques to identify and count available spaces.
+
 OpenCV Integration: Implemented using OpenCV for robust and efficient performance.
